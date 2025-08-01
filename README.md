@@ -1,1 +1,5 @@
-# Ultimate GSAP Workshop Starter
+# GSAP Playground
+
+npm install
+
+npm run dev
