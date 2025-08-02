@@ -123,3 +123,9 @@
 @utility flex-center-row {
   @apply flex flex-row items-center justify-center gap-5 flex-wrap;
 }
+
+
+li:hover {
+  scale: 1.02;
+  background-color: #020624;
+}
