@@ -39,7 +39,7 @@
     @apply flex flex-row justify-between items-center gap-5 max-w-7xl w-full mx-auto;
 
     img {
-      @apply size-10 object-contain;
+      @apply size-20 object-contain transition-transform duration-300 ease-in-out hover:scale-125;
     }
   }
 
